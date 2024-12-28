@@ -34,9 +34,11 @@ Below are some of my big projects which I have worked/been working on. Other pro
     
     ![Screenshot 2024-12-27 105659.png](Screenshot_2024-12-27_105659.png)
     
-- Transformer-from-scratch
-    - Built a complete encoder-decode transformer model(from attention is all you need paper) from scratch
-    - [github](https://github.com/SWARAJ-42/transformer-from-scratch)
-- Machine-learning-models-from-scratch
-    - I have implemented some of the common machine learning models from scratch and made them completely modular
-    - [github](https://github.com/SWARAJ-42/Machine-Learning-Models)
+### Transformer-from-scratch
+
+- Built a complete encoder-decode transformer model(from attention is all you need paper) from scratch
+- [github](https://github.com/SWARAJ-42/transformer-from-scratch)
+### Machine-learning-models-from-scratch
+
+- I have implemented some of the common machine learning models from scratch and made them completely modular
+- [github](https://github.com/SWARAJ-42/Machine-Learning-Models)
