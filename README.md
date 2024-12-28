@@ -17,12 +17,14 @@ Below are some of my big projects which I have worked/been working on. Other pro
 - This is my latest project.
 - [Frontend Website](https://thesius-ai.vercel.app/)
 - currently a work in progress, will deploy the fullstack before 31st
-- JARVIS
-    - [github](https://github.com/SWARAJ-42/JARVIS)
-- chatroom-copilot
-    - This is basically an anonymous chatroom where there is a public/private co-pilot to involve in the group conversation and also provide summary of the whole conversation if a new users joins the chatroom and wants to know the context of the whole convo.
-    - Unfortunately I haven't documented this project nor deployed. But can surely give you a demo of the project during the meet.
-    - [github](https://github.com/SWARAJ-42/chatroom-copilot)
+### JARVIS
+
+- [github](https://github.com/SWARAJ-42/JARVIS)
+### chatroom-copilot
+
+- This is basically an anonymous chatroom where there is a public/private co-pilot to involve in the group conversation and also provide summary of the whole conversation if a new users joins the chatroom and wants to know the context of the whole convo.
+- Unfortunately I haven't documented this project nor deployed. But can surely give you a demo of the project during the meet.
+- [github](https://github.com/SWARAJ-42/chatroom-copilot)
 
 ### Imaginovel
 
